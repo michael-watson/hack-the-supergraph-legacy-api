@@ -600,8 +600,24 @@ const cavernMaps = [
   },
 ];
 
+const coves = [
+  {
+    id: "0e27dfeb-7dfb-4b14-965f-50c0d70f95be",
+    location: { id: "efa21b82-bbb8-4ec6-8f98-6dd15f3f6153" },
+  },
+  {
+    id: "6a69cf0d-13d1-4527-acff-a4ab61bd22cf",
+    location: { id: "c3af1ee5-e72b-474f-91df-00cb87fa077c" },
+  },
+  {
+    id: "f4e57b90-8569-4d18-8f83-fc00d65bd8be",
+    location: { id: "ea8f7105-9f49-41d0-8e32-29d1c63bdc43" },
+  },
+];
+
 module.exports = {
   cavernMaps,
+  coves,
   locations,
   celestialBodyInfo,
   beaches,

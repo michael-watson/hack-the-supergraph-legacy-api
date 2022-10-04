@@ -41,6 +41,12 @@ app.get("/beaches/:name/activities", (req, res) => {
     res.send("No beach found");
   }
 });
+app.get("/coves", (req, res) => {
+  res.send(coves);
+});
+app.get("/coves/:id/", (req, res) => {
+  res.send(coves.find((c) => c.id == req.params.id));
+});
 app.get("/maps/:lat/:long", (req, res) => {
   const cavernMap = cavernMaps.find(
     (cm) => cm.lat == req.params.lat && cm.long == req.params.long

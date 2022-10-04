@@ -14,142 +14,142 @@ const locations = [
 ];
 
 const celestialBodyInfo = [
+  // {
+  //   id: "02718341-4f9e-4065-b7ab-d3bd0a17f4c1",
+  //   celestialBody: {
+  //     galaxy: "Sun",
+  //     latitude: 16,
+  //     longitude: 286.13,
+  //   },
+  // },
+  // {
+  //   id: "a0a54334-2d96-44db-842c-934c6e3b2578",
+  //   celestialBody: {
+  //     galaxy: "Mercury",
+  //     latitude: 3.38,
+  //     longitude: 48.331,
+  //   },
+  // },
+  // {
+  //   id: "fda04f84-d1ec-483f-acff-00f9578ea72c",
+  //   celestialBody: {
+  //     galaxy: "Venus",
+  //     latitude: 3.86,
+  //     longitude: 76.68,
+  //   },
+  // },
   {
-    id: "02718341-4f9e-4065-b7ab-d3bd0a17f4c1",
-    celestialBody: {
-      galaxy: "Sun",
-      latitude: 16,
-      longitude: 286.13,
-    },
-  },
-  {
-    id: "a0a54334-2d96-44db-842c-934c6e3b2578",
-    celestialBody: {
-      galaxy: "Mercury",
-      latitude: 3.38,
-      longitude: 48.331,
-    },
-  },
-  {
-    id: "fda04f84-d1ec-483f-acff-00f9578ea72c",
-    celestialBody: {
-      galaxy: "Venus",
-      latitude: 3.86,
-      longitude: 76.68,
-    },
-  },
-  {
-    id: "09c37d13-7644-4ea1-a8b4-94427c79fa41",
+    id: "efa21b82-bbb8-4ec6-8f98-6dd15f3f6153",
     celestialBody: {
       galaxy: "Earth",
       latitude: 7.155,
       longitude: -11.26064,
     },
   },
+  // {
+  //   id: "1e99a514-55f0-458e-af79-07f092f61b1d",
+  //   celestialBody: {
+  //     galaxy: "Mars",
+  //     latitude: 5.65,
+  //     longitude: 49.57854,
+  //   },
+  // },
+  // {
+  //   id: "7926c3ba-6754-4e36-9aa6-6d43b069f788",
+  //   celestialBody: {
+  //     galaxy: "Ceres",
+  //     latitude: 10.6,
+  //     longitude: 80.3,
+  //   },
+  // },
+  // {
+  //   id: "e072bb27-456f-4a1a-9ebb-954bec0d486f",
+  //   celestialBody: {
+  //     galaxy: "Pallas",
+  //     latitude: 34.93,
+  //     longitude: 172.9,
+  //   },
+  // },
+  // {
+  //   id: "98e3498a-e190-40dd-b1e4-1993f24dfca4",
+  //   celestialBody: {
+  //     galaxy: "Vesta",
+  //     latitude: 7.14043,
+  //     longitude: 103.85136,
+  //   },
+  // },
   {
-    id: "1e99a514-55f0-458e-af79-07f092f61b1d",
-    celestialBody: {
-      galaxy: "Mars",
-      latitude: 5.65,
-      longitude: 49.57854,
-    },
-  },
-  {
-    id: "7926c3ba-6754-4e36-9aa6-6d43b069f788",
-    celestialBody: {
-      galaxy: "Ceres",
-      latitude: 10.6,
-      longitude: 80.3,
-    },
-  },
-  {
-    id: "e072bb27-456f-4a1a-9ebb-954bec0d486f",
-    celestialBody: {
-      galaxy: "Pallas",
-      latitude: 34.93,
-      longitude: 172.9,
-    },
-  },
-  {
-    id: "98e3498a-e190-40dd-b1e4-1993f24dfca4",
-    celestialBody: {
-      galaxy: "Vesta",
-      latitude: 7.14043,
-      longitude: 103.85136,
-    },
-  },
-  {
-    id: "58d4a446-24f0-43dc-9da2-99f2e1925f7f",
+    id: "ea8f7105-9f49-41d0-8e32-29d1c63bdc43",
     celestialBody: {
       galaxy: "Jupiter",
       latitude: 6.09,
       longitude: 100.464,
     },
   },
-  {
-    id: "ad111b8d-1813-4743-a04b-389d4130a991",
-    celestialBody: {
-      galaxy: "Saturn",
-      latitude: 5.51,
-      longitude: 113.665,
-    },
-  },
-  {
-    id: "6e3e31ab-db1a-48ab-8915-16b8669580ee",
-    celestialBody: {
-      galaxy: "Uranus",
-      latitude: 6.48,
-      longitude: 74.006,
-    },
-  },
-  {
-    id: "29c8772d-91f6-44e1-9da3-b50835005f4b",
-    celestialBody: {
-      galaxy: "Neptune",
-      latitude: 6.43,
-      longitude: 131.783,
-    },
-  },
-  {
-    id: "d4ea49e1-6dd2-4bc9-9eab-ce02efe59af6",
-    celestialBody: {
-      galaxy: "Pluto",
-      latitude: 11.88,
-      longitude: 110.299,
-    },
-  },
-  {
-    id: "50bfd688-31d8-4eac-83d9-5732d71b6fd3",
-    celestialBody: {
-      galaxy: "Haumea",
-      latitude: 28.2137,
-      longitude: 122.167,
-    },
-  },
-  {
-    id: "e86c2a88-1720-4db9-acf5-bd5466e8b900",
-    celestialBody: {
-      galaxy: "Makemake",
-      latitude: 28.9835,
-      longitude: 79.62,
-    },
-  },
-  {
-    id: "46525df0-6d26-4eaa-ae13-a15f3eb41d0c",
-    celestialBody: {
-      galaxy: "50000 Quaoar",
-      latitude: 7.9895,
-      longitude: 188.927,
-    },
-  },
-  {
-    id: "17e64b5d-b8a5-4f4f-9cc4-65030d94db50",
-    celestialBody: {
-      galaxy: "Eris",
-      latitude: 44.04,
-      longitude: 35.951,
-    },
-  },
+  // {
+  //   id: "c3af1ee5-e72b-474f-91df-00cb87fa077c",
+  //   celestialBody: {
+  //     galaxy: "Saturn",
+  //     latitude: 5.51,
+  //     longitude: 113.665,
+  //   },
+  // },
+  // {
+  //   id: "6e3e31ab-db1a-48ab-8915-16b8669580ee",
+  //   celestialBody: {
+  //     galaxy: "Uranus",
+  //     latitude: 6.48,
+  //     longitude: 74.006,
+  //   },
+  // },
+  // {
+  //   id: "29c8772d-91f6-44e1-9da3-b50835005f4b",
+  //   celestialBody: {
+  //     galaxy: "Neptune",
+  //     latitude: 6.43,
+  //     longitude: 131.783,
+  //   },
+  // },
+  // {
+  //   id: "d4ea49e1-6dd2-4bc9-9eab-ce02efe59af6",
+  //   celestialBody: {
+  //     galaxy: "Pluto",
+  //     latitude: 11.88,
+  //     longitude: 110.299,
+  //   },
+  // },
+  // {
+  //   id: "50bfd688-31d8-4eac-83d9-5732d71b6fd3",
+  //   celestialBody: {
+  //     galaxy: "Haumea",
+  //     latitude: 28.2137,
+  //     longitude: 122.167,
+  //   },
+  // },
+  // {
+  //   id: "e86c2a88-1720-4db9-acf5-bd5466e8b900",
+  //   celestialBody: {
+  //     galaxy: "Makemake",
+  //     latitude: 28.9835,
+  //     longitude: 79.62,
+  //   },
+  // },
+  // {
+  //   id: "46525df0-6d26-4eaa-ae13-a15f3eb41d0c",
+  //   celestialBody: {
+  //     galaxy: "50000 Quaoar",
+  //     latitude: 7.9895,
+  //     longitude: 188.927,
+  //   },
+  // },
+  // {
+  //   id: "17e64b5d-b8a5-4f4f-9cc4-65030d94db50",
+  //   celestialBody: {
+  //     galaxy: "Eris",
+  //     latitude: 44.04,
+  //     longitude: 35.951,
+  //   },
+  // },
 ];
 
 const beaches = [

@@ -86,14 +86,14 @@ const celestialBodyInfo = [
       longitude: 100.464,
     },
   },
-  // {
-  //   id: "c3af1ee5-e72b-474f-91df-00cb87fa077c",
-  //   celestialBody: {
-  //     galaxy: "Saturn",
-  //     latitude: 5.51,
-  //     longitude: 113.665,
-  //   },
-  // },
+  {
+    id: "c3af1ee5-e72b-474f-91df-00cb87fa077c",
+    celestialBody: {
+      galaxy: "Saturn",
+      latitude: 5.51,
+      longitude: 113.665,
+    },
+  },
   // {
   //   id: "6e3e31ab-db1a-48ab-8915-16b8669580ee",
   //   celestialBody: {

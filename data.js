@@ -250,7 +250,7 @@ const beachActivities = [
     id: "c2da717d-9931-444c-80a8-05381ab14b54",
     name: "Hiking",
     description: "A simple hike with elevation climb of less than 5% incline",
-    riskLevel: "Low",
+    riskLevel: "LOW",
   },
   {
     id: "da35796a-bee9-487c-a5eb-7db791c80901",

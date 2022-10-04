@@ -159,7 +159,7 @@ const beaches = [
       { id: "dd458e1e-947e-4f96-a955-6235e883ebc5", place: "Crystal Pier" },
       { id: "426309ff-09e6-41ef-b5e6-758177f03c8e", place: "Crystal Pier" },
     ],
-    location: "efa21b82-bbb8-4ec6-8f98-6dd15f3f6153",
+    location: { id: "efa21b82-bbb8-4ec6-8f98-6dd15f3f6153" },
   },
   {
     name: "Coronado Beach",
@@ -177,7 +177,7 @@ const beaches = [
         place: "Coronado Island Bike Rentals",
       },
     ],
-    location: "efa21b82-bbb8-4ec6-8f98-6dd15f3f6153",
+    location: { id: "efa21b82-bbb8-4ec6-8f98-6dd15f3f6153" },
   },
   {
     name: "Flat Rock Beach",
@@ -188,7 +188,7 @@ const beaches = [
         place: "Broken Hill Trail",
       },
     ],
-    location: "efa21b82-bbb8-4ec6-8f98-6dd15f3f6153",
+    location: { id: "efa21b82-bbb8-4ec6-8f98-6dd15f3f6153" },
   },
   {
     name: "Liquid Lake",
@@ -196,7 +196,7 @@ const beaches = [
       { id: "5c4f5039-659f-4b4b-bdce-6e9b6ea4d1f1", place: "Heel Rock" },
       { id: "d4416327-e7ac-4216-af30-d2196dcd56b3", place: "Toes" },
     ],
-    location: "c3af1ee5-e72b-474f-91df-00cb87fa077c",
+    location: { id: "c3af1ee5-e72b-474f-91df-00cb87fa077c" },
   },
   {
     name: "Hidden Ocean",
@@ -204,7 +204,7 @@ const beaches = [
       { id: "5c4f5039-659f-4b4b-bdce-6e9b6ea4d1f1", place: "unknown" },
       { id: "d4416327-e7ac-4216-af30-d2196dcd56b3", place: "Europa Plains " },
     ],
-    location: "ea8f7105-9f49-41d0-8e32-29d1c63bdc43",
+    location: { id: "ea8f7105-9f49-41d0-8e32-29d1c63bdc43" },
   },
 ];
 
